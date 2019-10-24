@@ -1,0 +1,13 @@
+.wordDetails{
+  border:dotted;
+  border-color: grey
+}
+
+.navLink{
+  color :white;
+}
+
+.wordInformation, .wordList {
+  border:solid;
+  border-color: grey
+}
